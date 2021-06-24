@@ -1,6 +1,6 @@
 {
-    "name": "rtaylor82/laravel-quickbooks-client",
-    "description": "slight mods to SPINEN's Laravel Client for QuickBooks.",
+    "name": "spinen/laravel-quickbooks-client",
+    "description": "SPINEN's Laravel Client for QuickBooks.",
     "keywords": [
         "quickbooks",
         "client",
