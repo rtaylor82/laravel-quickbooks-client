@@ -1,6 +1,6 @@
 {
     "name": "spinen/laravel-quickbooks-client",
-    "description": "requirements tweak to SPINEN's Laravel Client for QuickBooks.",
+    "description": "requirements changes to SPINEN's Laravel Client for QuickBooks.",
     "keywords": [
         "quickbooks",
         "client",
