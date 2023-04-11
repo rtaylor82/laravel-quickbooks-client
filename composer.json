@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "laravel/framework": "~5.8|~6|~7|~8",
+        "laravel/framework": "~5.8|~6|~7|~8|~9|~10",
         "nesbot/carbon": "^1.26.3|^2.0",
         "quickbooks/v3-php-sdk": "^6"
     },
